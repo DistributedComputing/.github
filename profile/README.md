@@ -38,6 +38,7 @@ Les volumes horaires dédiés à ce cours à Nantes Université (séances de 1h2
 - M. Raynal. **Fault-Tolerant Message-Passing Distributed Systems: An Algorithmic Approach**, Springer, 2018.
 
 ## Dépôts principaux
+Organisation en construction : les ressources ne sont pas encore disponiblae.  
 - [**CM**](https://github.com/DistributedComputing/CM) — Slides de cours.
   - [Slides](https://DistributedComputing.github.io/CM/slides.pdf): version PDF avec animations
   - [Handout](https://DistributedComputing.github.io/CM/handout.pdf): version PDF sans animation
@@ -46,9 +47,9 @@ Les volumes horaires dédiés à ce cours à Nantes Université (séances de 1h2
 
 ## Cours liés
 Ce cours a été conçus comme la deuxième partie sur trois d'un cours sur la synchronisation des systèmes répartis : 
-- [**Programmation Concurrente en Multi-Thread**](https://github.com/ProgrammationMultiThread/CM) — Programmation multi-threads bloquante en mémoire partagée.
-- [**Programmation Distribuée**](https://github.com/AlgorithmiqueConcurrente/CM) — Algorithmique concurrente non-bloquante en mémoire partagée.
-- [**Services de Communication et Systèmes Distribués**](https://github.com/DistributedComputing/CM) — Algorithmique tolérante aux pannes en passage de messages.
+- [**Programmation Concurrente en Multi-Thread**](https://github.com/ProgrammationMultiThread) — Programmation multi-threads bloquante en mémoire partagée.
+- [**Programmation Distribuée**](https://github.com/AlgorithmiqueConcurrente) — Algorithmique concurrente non-bloquante en mémoire partagée.
+- [**Services de Communication et Systèmes Distribués**](https://github.com/DistributedComputing) — Algorithmique tolérante aux pannes en passage de messages.
 
 ## Licence
 Sauf mention contraire, les contenus sont sous licence
