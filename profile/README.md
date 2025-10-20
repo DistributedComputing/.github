@@ -36,12 +36,13 @@ Les volumes horaires dédiés à ce cours à Nantes Université (séances de 1h2
 
 ### Bibliographie
 - M. Raynal. **Fault-Tolerant Message-Passing Distributed Systems: An Algorithmic Approach**, Springer, 2018.
+- M. Perrin. **Distributed Systems: Concurrency and Consistency**, ISTE Press & Elsevier, 2017.
 
 ## Dépôts principaux
 Organisation en construction : les ressources ne sont pas encore disponiblae.  
 - [**CM**](https://github.com/DistributedComputing/CM) — Slides de cours.
-  - [Slides](https://DistributedComputing.github.io/CM/slides.pdf): version PDF avec animations
-  - [Handout](https://DistributedComputing.github.io/CM/handout.pdf): version PDF sans animation
+  - [Slides](https://DistributedComputing.github.io/CM/SCSD.pdf): version PDF avec animations
+  - [Handout](https://DistributedComputing.github.io/CM/SCSD-handout.pdf): version PDF sans animation
 - [**TD**](https://github.com/DistributedComputing/TD) — Énoncés et corrections de TD.
   - Dépôt privé accessible aux enseignants sur demande
 
