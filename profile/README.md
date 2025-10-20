@@ -43,8 +43,10 @@ Les volumes horaires dédiés à ce cours à Nantes Université (séances de 1h2
 - Justifier la correction d’un algorithme réparti.
 
 ### Bibliographie
+- M. Raynal. **Distributed Algorithms for Message-Passing Systems**, Springer, 2013.
+  > Référence principale sur les modèles à passage de messages.
 - M. Raynal. **Fault-Tolerant Message-Passing Distributed Systems: An Algorithmic Approach**, Springer, 2018.
-  > Référence principale sur les modèles à passage de messages et la tolérance aux fautes.
+  > Référence principale sur les algorithmes liés à la tolérance aux fautes.
 - M. Perrin. **Distributed Systems: Concurrency and Consistency**, ISTE Press & Elsevier, 2017.
   > Introduction plus synthétique aux modèles de cohérence et de synchronisation.
 
