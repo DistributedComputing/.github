@@ -2,6 +2,14 @@
 
 Cette organisation contient les ressources et projets liés au cours **Services de Communication et Systèmes Distribués** de Nantes Université.
 
+## Dépôts principaux
+
+- [**CM**](https://github.com/DistributedComputing/CM) — Slides de cours.
+  - [Slides](https://DistributedComputing.github.io/CM/SCSD.pdf) : version PDF avec animations
+  - [Handout](https://DistributedComputing.github.io/CM/SCSD-handout.pdf) : version PDF sans animation
+- [**TD**](https://github.com/DistributedComputing/TD) — Exercices de TD.
+  - Dépôt en construction : cette ressource n'est pas encore disponible.
+
 ## Description du module
 
 Ce cours est destiné à des étudiants de M2 en Informatique, ainsi qu'à toute personne s'intéressant à la synchronisation des systèmes répartis.
@@ -39,14 +47,6 @@ Les volumes horaires dédiés à ce cours à Nantes Université (séances de 1h2
   > Référence principale sur les modèles à passage de messages et la tolérance aux fautes.
 - M. Perrin. **Distributed Systems: Concurrency and Consistency**, ISTE Press & Elsevier, 2017.
   > Introduction plus synthétique aux modèles de cohérence et de synchronisation.
-
-## Dépôts principaux
-Organisation en construction : les ressources ne sont pas encore disponibles.  
-- [**CM**](https://github.com/DistributedComputing/CM) — Slides de cours.
-  - [Slides](https://DistributedComputing.github.io/CM/SCSD.pdf) : version PDF avec animations
-  - [Handout](https://DistributedComputing.github.io/CM/SCSD-handout.pdf) : version PDF sans animation
-- [**TD**](https://github.com/DistributedComputing/TD) — Énoncés et corrections de TD.
-  - Dépôt privé accessible aux enseignants sur demande
 
 ## Cours liés
 Ce cours a été conçu comme la dernière partie d'un cours sur la synchronisation des systèmes répartis : 
