@@ -1,4 +1,4 @@
-# Distributed Computing — Services de Communication et Systèmes Distribués
+# Services de Communication et Systèmes Distribués
 
 Cette organisation contient les ressources et projets liés au cours **Services de Communication et Systèmes Distribués** de Nantes Université.
 
