@@ -8,7 +8,9 @@ Cette organisation contient les ressources et projets liés au cours **Services 
   - [Slides](https://DistributedComputing.github.io/CM/SCSD.pdf) : version PDF avec animations
   - [Handout](https://DistributedComputing.github.io/CM/SCSD-handout.pdf) : version PDF sans animation
 - [**TD**](https://github.com/DistributedComputing/TD) — Exercices de TD.
-  - Dépôt en construction : cette ressource n'est pas encore disponible.
+  - [Livret de TD](https://distributedcomputing.github.io/TD/scsd-td.pdf) : livret de TD
+
+
 
 ## Description du module
 
