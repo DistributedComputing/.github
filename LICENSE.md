@@ -1,67 +1,78 @@
-# Project License
+# Licensing and Attributions
+
+This notice records the organization-wide licensing defaults, exceptions, sources, and attributions for repositories under the **DistributedComputing** organization.
+
+Each repository contains a `LICENSE.txt` file or another repository-specific notice stating its primary licensing terms. When a repository-specific notice is more precise than this document, that notice governs the repository. Third-party materials always remain subject to their own licenses and terms.
 
 **Author:** Matthieu Perrin  
-**Copyright:** © 2025 Matthieu Perrin
+**Copyright:** © Matthieu Perrin
 
-This project is licensed under the **Creative Commons Attribution–ShareAlike 4.0 International** (CC BY-SA 4.0).
+## Original teaching materials
 
-**Scope.** Except where otherwise noted, all **original teaching materials** in this repository (slides, exercises, LaTeX sources/macros, etc.) are licensed under CC BY-SA 4.0.  
-**Third-party content** (e.g., some images) remains under its own license as indicated below.
+Except where otherwise stated, original LaTeX files (`.tex` and `.sty`), text, exercises, diagrams, macros, and other teaching materials created for this organization are licensed under the **Creative Commons Attribution–ShareAlike 4.0 International** license (**CC BY-SA 4.0**).
 
-You are free to **share** and **adapt** the material for any purpose, even commercially, under these terms:
-- **Attribution** — Give appropriate credit, provide a link to the license, and indicate if changes were made. Attribution should be given in a **reasonable** manner (for presentations, a title or credits slide is recommended).
-- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the **same license**.
+You may share and adapt these materials for any purpose, including commercially, provided that you:
 
-- **License summary:** https://creativecommons.org/licenses/by-sa/4.0/  
-- **Full legal code:** https://creativecommons.org/licenses/by-sa/4.0/legalcode
+- give appropriate credit, provide a link to the license, and indicate whether changes were made;
+- distribute adaptations under the same license.
 
-> CC licenses do not affect patent or trademark rights and may not grant all permissions necessary for your intended use. No warranties are given.
+This license applies to the original components of generated PDF files. It does not replace the licenses or permissions governing third-party images, excerpts, code, data, or other incorporated materials.
 
-## LaTeX files (`.tex` and `.sty`)
+- **License summary:** <https://creativecommons.org/licenses/by-sa/4.0/>
+- **Full legal code:** <https://creativecommons.org/licenses/by-sa/4.0/legalcode>
 
-Unless otherwise stated in the file header, these files are licensed under **CC BY-SA 4.0**.
+### Suggested attribution
 
-- **Author:** Matthieu Perrin  
-- **Attribution required:** Yes (credit Matthieu Perrin; include the license name and link; indicate modifications if any).  
-- **ShareAlike required:** Yes.
+> *Services de Communication et Systèmes Distribués* — © Matthieu Perrin, licensed under CC BY-SA 4.0.
 
-*Suggested attribution example:*  
-“*Services de Communication et Systèmes Distribués* — © 2025 Matthieu Perrin, CC BY-SA 4.0, changes: none”  
-(or describe changes if you made any).
+If changes were made, the attribution should say so.
+
+## Restricted assessment materials
+
+Materials in private `Examen` repositories are **not** covered by the CC BY-SA 4.0 default above unless a file or repository-specific notice expressly states otherwise.
+
+These materials are governed by the `LICENSE.txt` file in the relevant repository. In particular, any permission to share them between teachers for educational purposes does not authorize distribution to students or public redistribution.
 
 ## Images
 
-Images in `src/img/` have varying licenses:
+Images stored in the various `src/img/` directories are subject to the terms listed below. Before redistributing a generated PDF, verify that every included third-party image may be redistributed in that context and that all required attributions are present.
 
-- `Lamport.jpg` — **CC-0** Usages allowed for any purpose
-  <https://commons.wikimedia.org/wiki/File:Leslie_Lamport.jpg>
+### AI-generated illustrations
 
-Please verify third-party licenses before redistributing compiled PDFs that include those images.
+The following illustrations were generated with OpenAI's DALL·E from prompts supplied by Matthieu Perrin and were selected or edited for use in the course:
 
-### AI-generated images (DALL·E)
+- `CM/src/img/Alice.png`
+- `CM/src/img/Bob.png`
+- `CM/src/img/Carole.png`
+- `CM/src/img/Jardin.jpg`
+- `CM/src/img/Metro.jpg`
+- `CM/src/img/Rue.JPG`
+- `CM/src/img/Salon.jpg`
+- `CM/src/img/Seine.jpg`
+- `CM/src/img/Bakery.jpg`
 
-The following illustrations were generated using **OpenAI's DALL·E** model.
+To the extent that Matthieu Perrin holds copyright or other transferable rights in these files, those rights are licensed under **CC BY-SA 4.0**. Under [OpenAI's Terms of Use](https://openai.com/policies/terms-of-use/), as between the user and OpenAI and to the extent permitted by applicable law, the user owns the output; however, AI output may not be unique, and the terms do not determine whether a particular output is eligible for copyright protection.
 
-These images are **original works** created by the project author (Matthieu Perrin) using prompts designed specifically for educational purposes.
-They are released under the same license as the rest of this repository (**CC BY-SA 4.0**), unless otherwise noted.
+### Third-party illustrations
 
-DALL·E output is not subject to any additional copyright or usage restrictions beyond those of this project’s license.
+The following file is not covered by the organization's CC BY-SA 4.0 default:
 
-- `Alice.png`
-- `Bob.png`
-- `Carole.png`
-- `Jardin.jpg`
-- `Metro.jpg`
-- `Rue.JPG`
-- `Salon.jpg`
-- `Seine.jpg`
-- `Bakery.jpg`
+- `CM/src/img/Lamport.jpg` — **Copyrighted free use** — Leslie Lamport  
+  The copyright holder permits unrestricted use, including redistribution, modification, and commercial use: <https://commons.wikimedia.org/wiki/File:Leslie_Lamport.jpg>
 
-### Third-party trademarks (logos)
+### Trademarks and logotypes
 
-The following logos are simple word or symbol marks that do not meet the originality threshold for copyright protection (public domain, see Wikimedia Commons <https://commons.wikimedia.org/wiki/Commons:Threshold_of_originality>). They remain trademarks of their respective owners and are used here solely for educational and descriptive purposes.
+The Wikimedia Commons pages linked below classify the following logotypes as simple geometric shapes or text that do not meet the applicable threshold of originality for copyright protection. They may nevertheless remain protected as trademarks or be subject to other restrictions. They are used here only to identify the corresponding services:
 
-- `Facebook.png` — <https://fr.m.wikipedia.org/wiki/Fichier:Facebook_Messenger_logo_2013.svg>
-- `Hangout.png` — <https://commons.wikimedia.org/wiki/File:Hangouts_icon.svg>
-- `Skype.png` — <https://commons.wikimedia.org/wiki/File:Skype_logo_(2019%E2%80%93present).svg>
-- `Whatsapp.png` — <https://commons.wikimedia.org/wiki/File:WhatsApp_Logo_green.svg>
+- `CM/src/img/Facebook.png` — Facebook Messenger — Facebook, Inc.  
+  <https://commons.wikimedia.org/wiki/File:Facebook_Messenger_logo_2013.svg>
+- `CM/src/img/Hangout.png` — Google Hangouts — Google Inc.  
+  <https://commons.wikimedia.org/wiki/File:Hangouts_icon.svg>
+- `CM/src/img/Skype.png` — Skype — Skype Technologies  
+  <https://commons.wikimedia.org/wiki/File:Skype_logo_(2019%E2%80%93present).svg>
+- `CM/src/img/Whatsapp.png` — WhatsApp  
+  <https://commons.wikimedia.org/wiki/File:WhatsApp_Logo_green.svg>
+- `TD/src/img/logoUN.png` — Nantes Université name and logo  
+  <https://www.univ-nantes.fr/medias/photo/logotype-nantes-u-noir-72dpi_1638965800927-png>
+
+All names, logos, and trademarks remain the property of their respective owners. Their inclusion does not imply endorsement of this project or of any adaptation or derivative work.
