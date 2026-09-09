@@ -12,19 +12,20 @@ Le responsable de ces enseignements est Matthieu Perrin.
 
 Cours de première année de master consacré à la programmation concurrente en mémoire partagée : threads, synchronisation bloquante, verrous, moniteurs, vivacité et modèle mémoire.
 
+[Diaporama](https://DistributedComputing.github.io/CM/pcmt/cours.pdf) · [Version sans animations](https://DistributedComputing.github.io/CM/pcmt/handout/cours.pdf) · [Livret de TD](https://DistributedComputing.github.io/TD/pcmt/td.pdf)
+
+
 ### [Algorithmique des Structures de Données Concurrentes](courses/pdac.md)
 
 Cours de première année de master, officiellement intitulé *Programmation distribuée*, consacré aux structures de données concurrentes non bloquantes, aux conditions de progression et aux résultats fondamentaux de calculabilité en mémoire partagée.
+
+[Diaporama](https://DistributedComputing.github.io/CM/pdac/cours.pdf) · [Version sans animations](https://DistributedComputing.github.io/CM/pdac/handout/cours.pdf) · [Livret de TD](https://DistributedComputing.github.io/TD/pdac/td.pdf)
 
 ### [Services de Communication et Systèmes Distribués](courses/scsd.md)
 
 Cours de deuxième année de master consacré aux systèmes répartis à passage de messages, à la réplication, aux abstractions de communication et aux algorithmes tolérants aux pannes.
 
-| Cours                                                                   |                            Diaporama                            |                                 Handout                                 |                         Livret de TD                         |
-| :---------------------------------------------------------------------- | :-------------------------------------------------------------: | :---------------------------------------------------------------------: | :----------------------------------------------------------: |
-| [Programmation Concurrente en Multi-Threads](courses/pcmt.md)           | [PDF](https://DistributedComputing.github.io/CM/pcmt/cours.pdf) | [PDF](https://DistributedComputing.github.io/CM/pcmt/handout/cours.pdf) | [PDF](https://DistributedComputing.github.io/TD/pcmt/td.pdf) |
-| [Algorithmique des Structures de Données Concurrentes](courses/pdac.md) | [PDF](https://DistributedComputing.github.io/CM/pdac/cours.pdf) | [PDF](https://DistributedComputing.github.io/CM/pdac/handout/cours.pdf) | [PDF](https://DistributedComputing.github.io/TD/pdac/td.pdf) |
-| [Services de Communication et Systèmes Distribués](courses/scsd.md)     | [PDF](https://DistributedComputing.github.io/CM/scsd/cours.pdf) | [PDF](https://DistributedComputing.github.io/CM/scsd/handout/cours.pdf) | [PDF](https://DistributedComputing.github.io/TD/scsd/td.pdf) |
+[Diaporama](https://DistributedComputing.github.io/CM/scsd/cours.pdf) · [Version sans animations](https://DistributedComputing.github.io/CM/scsd/handout/cours.pdf) · [Livret de TD](https://DistributedComputing.github.io/TD/scsd/td.pdf)
 
 ## Licence
 
