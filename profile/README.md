@@ -20,6 +20,12 @@ Cours de première année de master, officiellement intitulé *Programmation dis
 
 Cours de deuxième année de master consacré aux systèmes répartis à passage de messages, à la réplication, aux abstractions de communication et aux algorithmes tolérants aux pannes.
 
+| Cours                                                                   |                            Diaporama                            |                                 Handout                                 |                         Livret de TD                         |
+| :---------------------------------------------------------------------- | :-------------------------------------------------------------: | :---------------------------------------------------------------------: | :----------------------------------------------------------: |
+| [Programmation Concurrente en Multi-Threads](courses/pcmt.md)           | [PDF](https://DistributedComputing.github.io/CM/pcmt/cours.pdf) | [PDF](https://DistributedComputing.github.io/CM/pcmt/handout/cours.pdf) | [PDF](https://DistributedComputing.github.io/TD/pcmt/td.pdf) |
+| [Algorithmique des Structures de Données Concurrentes](courses/pdac.md) | [PDF](https://DistributedComputing.github.io/CM/pdac/cours.pdf) | [PDF](https://DistributedComputing.github.io/CM/pdac/handout/cours.pdf) | [PDF](https://DistributedComputing.github.io/TD/pdac/td.pdf) |
+| [Services de Communication et Systèmes Distribués](courses/scsd.md)     | [PDF](https://DistributedComputing.github.io/CM/scsd/cours.pdf) | [PDF](https://DistributedComputing.github.io/CM/scsd/handout/cours.pdf) | [PDF](https://DistributedComputing.github.io/TD/scsd/td.pdf) |
+
 ## Licence
 
 Sauf mention contraire dans le dépôt concerné :
