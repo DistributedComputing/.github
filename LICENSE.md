@@ -123,8 +123,8 @@ The following image is not committed to the repositories and is not included in 
 
 - `CM/src/img/Herlihy.jpg` — Portrait of Maurice Herlihy — Brown University  
   Source: <https://cs.brown.edu/people/mph/>
-- `CM/src/img/time.png` — IT Hare  
-  Source: <http://ithare.com/wp-content/uploads/part101_infographics_v08.png>
+- `CM/src/img/time.png` — 6IT Hare  
+  Source: <https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-741>
 
 Listing a source here provides attribution but does not itself grant permission to reproduce or redistribute the image.
 
